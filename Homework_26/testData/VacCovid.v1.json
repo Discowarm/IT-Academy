@@ -1,0 +1,1485 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "Country": {
+          "type": "string"
+        },
+        "Continent": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "total_cases": {
+          "type": "integer"
+        },
+        "new_cases": {
+          "type": "integer"
+        },
+        "total_deaths": {
+          "type": "integer"
+        },
+        "new_deaths": {
+          "type": "integer"
+        },
+        "total_tests": {
+          "type": "integer"
+        },
+        "new_tests": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "symbol",
+        "Country",
+        "Continent",
+        "date",
+        "total_cases",
+        "new_cases",
+        "total_deaths",
+        "new_deaths",
+        "total_tests",
+        "new_tests"
+      ]
+    }
+  ]
+}
